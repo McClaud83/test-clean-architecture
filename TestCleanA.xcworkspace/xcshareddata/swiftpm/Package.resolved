@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Core",
+        "repositoryURL": "https://gitlab.65apps.com/ios/spm/core",
+        "state": {
+          "branch": null,
+          "revision": "4de990d08e9d64e8c5250f7384d6e7bf36ee7476",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
